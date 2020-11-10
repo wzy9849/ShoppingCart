@@ -1,0 +1,8 @@
+transaction=com.wzy.transaction.impl.TransactionManagerImpl
+userInfoDao=com.wzy.dao.impl.UserInfoDaoImpl
+goodsDao=com.wzy.dao.impl.GoodsDaoImpl
+
+
+userInfoService=com.wzy.services.impl.UserInfoServiceImpl
+goodsService=com.wzy.services.impl.GoodsServiceImpl
+
